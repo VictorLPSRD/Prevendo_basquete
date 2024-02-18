@@ -4,6 +4,9 @@ Nosso aplicativo de previsão de jogadas de basquete apresenta uma abordagem ino
 que faltaram para marcar pontos cruciais. Desenvolvido com Python e o framework KivyMD, ele utiliza as bibliotecas OpenCV, cvzone e NumPy para aprimorar os vídeos, criando 
 linhas de mapeamento dos ângulos e oferecendo insights valiosos para os treinadores e jogadores.
 
+
+![Screenshot da Página](img1.png)  ![Screenshot da Página](img2.png)
+
 ## Funcionalidades
 
 - or meio de vídeos, nossa interface intuitiva revela os ângulos
